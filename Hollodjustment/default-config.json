@@ -1,0 +1,19 @@
+{
+	"enabled": true,
+	"settings": {
+		"delay": {
+			"type": "slider",
+			"value": 5,
+			"min": 0,
+			"max": 10,
+			"title": "Meteor Frequency"
+		},
+		"damage": {
+			"type": "slider",
+			"value": 5,
+			"min": 0,
+			"max": 10,
+			"title": "Meteor Damage"
+		}
+	}
+}
