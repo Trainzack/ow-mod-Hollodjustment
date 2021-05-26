@@ -10,6 +10,8 @@ You can install the mod with the [Outer Wilds Mod Manager](https://outerwildsmod
 
 Once the mod is installed, you can modify the spawn rate and damage of Hollow's Lantern's meteors. To do this, open the pause menu, select the "Mods" option, and then select the "Hollojustment" option. You should see two sliders, one labeled "Meteor Frequency" and the other labeled "Meteor Damage". For both sliders, 5 is the base-game value.
 
+After changing either of these sliders, you should see the effects at the start of the next loop.
+
 ## Notes
 
 There are a few things to keep in mind while using this mod:
