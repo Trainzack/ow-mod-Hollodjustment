@@ -1,4 +1,4 @@
-# Hollojustment
+# Hollodjustment
 
 An Outer Wilds mod that adjust Hollow's Lantern's meteors.
 
